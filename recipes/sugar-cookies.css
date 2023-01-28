@@ -1,0 +1,22 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    color: lightslategray;
+}
+
+body{
+    background-color: lightpink;
+}
+
+h1{
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+img{
+    width: auto;
+    height: 300px;  
+}
+
+
+
+
